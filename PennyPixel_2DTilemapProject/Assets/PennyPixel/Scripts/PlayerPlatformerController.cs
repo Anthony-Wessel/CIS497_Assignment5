@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Anthony Wessel
+ * Assignment 5 - PennyPixel
+ * Controls the 2d player to move around the map
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

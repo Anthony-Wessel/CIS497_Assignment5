@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Anthony Wessel
+ * Assignment 5 - PennyPixel
+ * Increments the score every time the player touches a gem
+ */
+ 
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

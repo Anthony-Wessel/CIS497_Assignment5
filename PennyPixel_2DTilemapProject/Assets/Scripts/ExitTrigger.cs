@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Anthony Wessel
+ * Assignment 5 - PennyPixel
+ * Ends the game when player reaches the door (this object)
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
