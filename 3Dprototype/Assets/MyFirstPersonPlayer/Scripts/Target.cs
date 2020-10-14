@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Anthony Wessel
+ * Assignment 5 - 3D prototype
+ * Manages the health of a target cube and destroys it when health reaches 0
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

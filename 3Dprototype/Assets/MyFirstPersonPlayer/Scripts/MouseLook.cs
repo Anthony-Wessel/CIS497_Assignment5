@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Anthony Wessel
+ * Assignment 5 - 3D prototype
+ * Allows the player to use the mouse to look around
+ */
+ 
+ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

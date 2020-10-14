@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Anthony Wessel
+ * Assignment 5 - 3D prototype
+ * Shoots targets when the player clicks
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

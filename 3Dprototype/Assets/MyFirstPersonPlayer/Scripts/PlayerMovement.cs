@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * Anthony Wessel
+ * Assignment 5 - 3D prototype
+ * Controls the player's movement
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
